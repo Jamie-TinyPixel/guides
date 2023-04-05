@@ -8,7 +8,7 @@ Installing Ubuntu Server 22.04.2 is a straightforward process. Follow these step
 
 1. **Prepare your machine**: 
 Make sure your machine is connected to a power source and has a stable internet connection (preferably wired).
-Download (this)[https://ubuntu.com/download/server] ISO and flash it onto a USB stick with 4GBs or more.
+Download [this](https://ubuntu.com/download/server) ISO and flash it onto a USB stick with 4GBs or more.
 2. **Enter the BIOS/UEFI setup**: 
 Turn on or restart your machine, and press the relevant key (often F1, F2, F10, F12, or the 'Enter' key) to access the BIOS/UEFI setup menu. You might need to consult your laptop's manual for the specific key.
 3. **Disable Secure Boot**: 
